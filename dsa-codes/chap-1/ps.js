@@ -11,10 +11,13 @@ const sum = a + b
 
 console.log(sum)
 
+
 // part 2. relation between integers and string
 
 let x = 1     //integer
 let y = "ram" //string
+
+
 
 // ** Question - 2 **
 // Sum and Message 
@@ -25,12 +28,16 @@ let n = "ram" //string
 console.log(m+n) // 1ram
 console.log(m-n) // naN
 
+
+
 // ** Qusetion - 3 **
 // Accept and print the Answer
 
 // const Age = Number(prompt("Enter your Age")) //Please change this
 
 // console.log(Age)
+
+
 
 // ** Qusetion - 4 ** 
 // Swap Two variable via 3 methods
