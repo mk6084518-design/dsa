@@ -21,3 +21,6 @@ while(i<arr.length){
 
 console.log(arr)
 
+
+// chap-5 is completed
+
